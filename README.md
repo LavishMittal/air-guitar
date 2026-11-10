@@ -20,9 +20,3 @@ Project planning and repository setup. Gesture detection and audio playback are 
 
 ## Development workflow
 Make a focused change, test it, commit it with a descriptive message, then push to GitHub.
-
-## Inspiration
-Inspired by Parth Deshmukh and Mateo Neira Castillo's Air Gesture Gaming Controller:
-https://github.com/MateoNeiraCastillo/air-gesture-controller
-
-This project explores musical interaction rather than game controls.
